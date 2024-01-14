@@ -1,11 +1,11 @@
 {
 	"nachrichten": [
 		{
-			"frage": "funktionierst_du",
+			"frage": "Funktionierst du?",
 			"antwort": "Ja."
 		},
 		{
-			"frage": "funktionierst_du_wirklich",
+			"frage": "Funktionierst du wirklich?",
 			"antwort": "Nein."
 		}
 	]

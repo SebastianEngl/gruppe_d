@@ -10,7 +10,8 @@
 	margin-top: -1px;
 	padding: 0;
 	text-align: center;
-	width: 34px;
+	width: 64px;
+	height: 64px;
 }
 
 .board-row:after {
